@@ -2,7 +2,7 @@
 - ⛩ Owner of [HackySoft](https://discord.gg/hackysoft)
 - 📨 Discord: @rawnullbyte
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1253296208349233234)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1224779999303827549)
 
 # Visits:
 ![](https://count.getloli.com/get/@rawnullbyte?theme=gelbooru)
