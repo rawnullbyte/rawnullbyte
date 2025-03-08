@@ -29,14 +29,14 @@
 ### 🎮 **Furina Appreciation Section**  
 #### **Behold the Majesty of Furina!**  
 
-![Furina](https://i.imgur.com/xyz1234.png)  
-![Furina](https://i.imgur.com/abc5678.png)  
-![Furina](https://i.imgur.com/def9101.png)  
-![Furina](https://i.imgur.com/ghi1122.png)  
-![Furina](https://i.imgur.com/jkl3344.png)  
-![Furina](https://i.imgur.com/mno5566.png)  
-![Furina](https://i.imgur.com/pqr7788.png)  
-![Furina](https://i.imgur.com/stu9900.png)  
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-game-art-4k-171m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-4k-71m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-game-art-4k-171m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-4k-71m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-game-art-4k-171m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-4k-71m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-game-art-4k-171m.html)
+![Furina](https://www.uhdpaper.com/2023/07/furina-genshin-impact-4k-71m.html)
 
 ---
 
