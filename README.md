@@ -26,16 +26,17 @@
 
 ---
 
-### 🎮 **Genshin Impact Section**  
-#### **Furina Appreciation Corner**  
+### 🎮 **Furina Appreciation Section**  
+#### **Behold the Majesty of Furina!**  
+
 ![Furina](https://i.imgur.com/xyz1234.png)  
-*"The stage is set, and the spotlight is mine!"*  
-
 ![Furina](https://i.imgur.com/abc5678.png)  
-*"Justice flows like water, and so does my love for Furina!"*  
-
 ![Furina](https://i.imgur.com/def9101.png)  
-*"Furina mains rise up! Hydro supremacy forever!"*  
+![Furina](https://i.imgur.com/ghi1122.png)  
+![Furina](https://i.imgur.com/jkl3344.png)  
+![Furina](https://i.imgur.com/mno5566.png)  
+![Furina](https://i.imgur.com/pqr7788.png)  
+![Furina](https://i.imgur.com/stu9900.png)  
 
 ---
 
