@@ -1,8 +1,7 @@
 
 ### 🌟 Visits:  
 ![Visit Counter](https://count.getloli.com/get/@rawnullbyte?theme=booru-lewd)
-
-![Furina 1](https://www.uhdpaper.com/wp-content/uploads/2023/07/Furina-Genshin-Impact-Game-Art-4K-171m-Wallpaper.jpg)
+https://www.uhdpaper.com/wp-content/uploads/2023/07/Furina-Genshin-Impact-Game-Art-4K-171m-Wallpaper.jpg
 ![Furina 2](https://www.uhdpaper.com/wp-content/uploads/2023/07/Furina-Genshin-Impact-4K-71m-Wallpaper.jpg)
 ![Furina 3](https://www.uhdpaper.com/wp-content/uploads/2023/07/Furina-Genshin-Impact-4k-201m-Wallpaper.jpg)
 ![Furina 4](https://www.uhdpaper.com/wp-content/uploads/2023/07/Furina-Genshin-Impact-Game-Art-4K-171m.jpg)
