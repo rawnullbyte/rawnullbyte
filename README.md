@@ -7,9 +7,6 @@
   </div>
   <div>
     <h2 align="center">~ About Me ~</h2>
-    <div align="center">
-      <img width="180px" height="230px" src="https://i.imgur.com/furina_image1.jpg" align="right">
-    </div>
     <ul>
       <li><b>Name:</b> Null</li>
       <li><b>Nickname:</b> rawnullbyte</li>
