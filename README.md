@@ -18,7 +18,7 @@
   <div>
     <h2 align="center">~ Thanks for Reading! ~</h2>
     <div align="center">
-      <img src="https://i.imgur.com/furina_image2.gif">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wanderer.moe%2Fgenshin-impact%2Fsplash-art%2Ffurina.png&f=1&nofb=1&ipt=37e6dbdd6a5470d4008130ec038da6a14d82e5a5e981f86509f9451826605c13&ipo=images">
     </div>
     <hr>
   </div>
