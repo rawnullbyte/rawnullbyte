@@ -60,7 +60,7 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
