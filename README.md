@@ -1,51 +1,101 @@
-<p align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=368FF7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Null!;Just+a+typical+Python%2FJS+programmer.;I+love+reverse+engineering+discord+api+xd" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=368FF7&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Null!;A+passionate+Python%2FJS+developer.;Exploring+the+Discord+API+one+packet+at+a+time." alt="Typing SVG" />
+  </a>
 </p>
 
-I build tools and wrappers in Python, Java, Rust, C++, and more—mostly around API integrations and automation. I’m always open to new opportunities; feel free to reach out via my blog!  
-[Available To Hire → http://blog.nullbyte.rip/](http://blog.nullbyte.rip/) :contentReference[oaicite:0]{index=0}
-
-If you like what I do, please consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
-
----
-
-## KahootConnect  
-**Python wrapper for the Kahoot API.** All bytes reversed—join and interact with live games over WebSockets.  
-[GitHub → rawnullbyte/KahootConnect](https://github.com/rawnullbyte/KahootConnect) :contentReference[oaicite:1]{index=1}
+<p align="center">
+  <a href="https://github.com/rawnullbyte">
+    <img src="https://img.shields.io/github/followers/rawnullbyte?label=Follow&style=social" alt="Follow on GitHub" />
+  </a>
+  <a href="https://github.com/rawnullbyte">
+    <img src="https://img.shields.io/github/stars/rawnullbyte?label=Stars&style=social" alt="Stars on GitHub" />
+  </a>
+</p>
 
 ---
 
-## AutoAdvertiser  
-**A Meteor addon template in Java.** Quickly scaffold and build Meteor-compatible modules with Gradle.  
-[GitHub → rawnullbyte/AutoAdvertiser](https://github.com/rawnullbyte/AutoAdvertiser) :contentReference[oaicite:2]{index=2}
+## 🔧 About Me
+
+I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python, Java, Rust, and C++. My work primarily focuses on API integrations and automation. I'm always open to new opportunities; feel free to reach out via my blog!
+
+👉 [Available To Hire →](http://blog.nullbyte.rip/)
+
+If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
 
 ---
 
-## MossUtils  
+## 🚀 Featured Projects
+
+### **KahootConnect**
+A Python wrapper for the Kahoot API. All bytes reversed—join and interact with live games over WebSockets.  
+🔗 [GitHub → rawnullbyte/KahootConnect](https://github.com/rawnullbyte/KahootConnect)
+
+### **AutoAdvertiser**
+A Meteor addon template in Java. Quickly scaffold and build Meteor-compatible modules with Gradle.  
+🔗 [GitHub → rawnullbyte/AutoAdvertiser](https://github.com/rawnullbyte/AutoAdvertiser)
+
+### **MossUtils**
 General-purpose Java utilities for file handling, I/O, and common algorithms—ideal for integration into larger projects.  
-[GitHub → rawnullbyte/MossUtils](https://github.com/rawnullbyte/MossUtils) :contentReference[oaicite:3]{index=3}
+🔗 [GitHub → rawnullbyte/MossUtils](https://github.com/rawnullbyte/MossUtils)
 
----
-
-## RDuco  
+### **RDuco**
 A Duino-coin miner written in Rust—lightweight, performant, and designed for headless operation.  
-[GitHub → rawnullbyte/RDuco](https://github.com/rawnullbyte/RDuco) :contentReference[oaicite:4]{index=4}
+🔗 [GitHub → rawnullbyte/RDuco](https://github.com/rawnullbyte/RDuco)
+
+### **HackyShark**
+A compact, versatile tool built around the ESP32-S3 microcontroller, tailored for hardware hacking tasks. Its design facilitates various penetration testing activities, making it a valuable asset for security professionals and enthusiasts.  
+🔗 [GitHub → rawnullbyte/HackyShark](https://github.com/rawnullbyte/HackyShark)
 
 ---
 
-## HackyShark  
-HackyShark is a compact, versatile tool built around the ESP32-S3 microcontroller, tailored for hardware hacking tasks. Its design facilitates various penetration testing activities, making it a valuable asset for security professionals and enthusiasts.  
-[GitHub → rawnullbyte/HackyShark](https://github.com/rawnullbyte/HackyShark) :contentReference[oaicite:5]{index=5}
+## 📊 GitHub Stats
 
----
-
-![github stats](https://github-readme-stats.vercel.app/api?username=rawnullbyte&theme=radical&show_icons=true&hide_border=true)
-
-
-<p align=center>
-  <img src="https://count.getloli.com/@rawnullbyte?name=Tips-Discord&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-  
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=react&title_color=00bcd4&icon_color=00bcd4&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" alt="GitHub Stats" style="border: 2px solid #00bcd4; border-radius: 10px;" />
-</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rawnullbyte/rawnullbyte/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img src="https://count.getloli.com/@rawnullbyte?name=Profile+Views&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+- [Blog](http://blog.nullbyte.rip/)
+- [GitHub](https://github.com/rawnullbyte)
+- [Twitter](https://twitter.com/rawnullbyte)
+- [LinkedIn](https://www.linkedin.com/in/rawnullbyte)
+
+---
+
+## 🎨 Design & Styling
+
+This README utilizes:
+
+- **Animated Typing Effect**: Powered by [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), adding a dynamic introduction to your profile.
+- **GitHub Stats Card**: Displaying your GitHub statistics with a sleek design.
+- **Contribution Snake**: Showcasing your contributions in a visually engaging manner.
+- **Profile Views Badge**: Displaying the number of profile views with a customizable badge.
+- **Social Badges**: Linking to your social profiles with attractive badges.
+
+For more inspiration and advanced styling techniques, explore the [Awesome GitHub Profile README Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) repository.
+
+---
+
+Feel free to customize this template further to match your personal style and preferences. Let me know if you need assistance with any specific elements or additional features!
+::contentReference[oaicite:0]{index=0}
+ 
