@@ -77,25 +77,4 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 
 - [Blog](http://blog.nullbyte.rip/)
 - [GitHub](https://github.com/rawnullbyte)
-- [Twitter](https://twitter.com/rawnullbyte)
-- [LinkedIn](https://www.linkedin.com/in/rawnullbyte)
-
----
-
-## 🎨 Design & Styling
-
-This README utilizes:
-
-- **Animated Typing Effect**: Powered by [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), adding a dynamic introduction to your profile.
-- **GitHub Stats Card**: Displaying your GitHub statistics with a sleek design.
-- **Contribution Snake**: Showcasing your contributions in a visually engaging manner.
-- **Profile Views Badge**: Displaying the number of profile views with a customizable badge.
-- **Social Badges**: Linking to your social profiles with attractive badges.
-
-For more inspiration and advanced styling techniques, explore the [Awesome GitHub Profile README Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) repository.
-
----
-
-Feel free to customize this template further to match your personal style and preferences. Let me know if you need assistance with any specific elements or additional features!
-::contentReference[oaicite:0]{index=0}
- 
+- [Discord](https://dsc.gg/workspace)
