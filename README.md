@@ -31,8 +31,7 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ## 🛠️ Tools & Tech
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,discord,vscode,sqlite,api,bash)
-
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,discord,vscode,sqlite,api)
 
 ---
 
