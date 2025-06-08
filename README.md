@@ -25,6 +25,20 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ---
 
+## 🧠 My Expertise
+
+![Expertise](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,rust,cpp,java,api)
+
+## 💻 Languages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,js,java,cpp,bash,html,css)
+
+## 🛠️ Tools & Tech
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,git,linux,postgresql,mongodb,vscode,discord,nginx)
+
+---
+
 ## 🚀 Featured Projects
 
 ### **KahootConnect**
@@ -32,11 +46,11 @@ A Python wrapper for the Kahoot API. All bytes reversed—join and interact with
 🔗 [GitHub → rawnullbyte/KahootConnect](https://github.com/rawnullbyte/KahootConnect)
 
 ### **AutoAdvertiser**
-Advertise yourself on Minecraft servers using Meteor Client!
+Advertise yourself on Minecraft servers using Meteor Client!  
 🔗 [GitHub → rawnullbyte/AutoAdvertiser](https://github.com/rawnullbyte/AutoAdvertiser)
 
 ### **MossUtils**
-Make the spawn green! [#MOSSINVASION](https://www.reddit.com/r/2b2t/comments/18jbto5/2b2t_moss_invation_make_the_spawn_green_again/)
+Make the spawn green! [#MOSSINVASION](https://www.reddit.com/r/2b2t/comments/18jbto5/2b2t_moss_invation_make_the_spawn_green_again/)  
 🔗 [GitHub → rawnullbyte/MossUtils](https://github.com/rawnullbyte/MossUtils)
 
 ### **RDuco**
