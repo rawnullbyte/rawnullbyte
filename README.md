@@ -24,18 +24,18 @@ I'm Null, a developer specializing in creating tools and wrappers across multipl
 If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
 
 ---
-
 ## 🧠 My Expertise
 
-![Expertise](https://go-skill-icons.vercel.app/api/icons?i=python,javascript,rust,cpp,java,api)
+![Expertise](https://go-skill-icons.vercel.app/api/icons?i=python,api,bash)
 
 ## 💻 Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,js,java,cpp,bash,html,css)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,bash)
 
 ## 🛠️ Tools & Tech
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,git,linux,postgresql,mongodb,vscode,discord,nginx)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,discord)
+
 
 ---
 
