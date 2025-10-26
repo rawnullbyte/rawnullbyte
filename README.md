@@ -17,7 +17,7 @@
 
 ## 🔧 About Me
 
-I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python, Java, Rust, and C++. My work primarily focuses on API integrations and automation. I'm always open to new opportunities; feel free to reach out via my blog!
+I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation. I'm always open to new opportunities; feel free to reach out via my blog!
 
 If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
 
