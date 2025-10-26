@@ -72,11 +72,11 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 ---
 
 ## 💬 Let's Connect
+
 - [Blog](http://root-workspace.xyz/)
 - [GitHub](https://github.com/rawnullbyte)
 - [Discord](https://dsc.gg/workspace)
 
-  <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" 
-       alt="Profile views"
-       style="margin-right: 10px; height: 40px;" />
-
+<p align="right">
+  <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="Profile views" />
+</p>
