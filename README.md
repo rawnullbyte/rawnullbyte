@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=368FF7&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Null!;A+passionate+Python%2FJS+developer.;Exploring+the+Discord+API+one+packet+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=368FF7&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Null!;A+passionate+Python%2FJS+developer." alt="Typing SVG" />
   </a>
 </p>
 
@@ -61,25 +61,13 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://count.getloli.com/@rawnullbyte?name=Profile+Views&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
-</p>
+<img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 ---
 
@@ -88,3 +76,7 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 - [Blog](http://blog.nullbyte.rip/)
 - [GitHub](https://github.com/rawnullbyte)
 - [Discord](https://dsc.gg/workspace)
+
+<p align="right">
+  <img src="https://count.getloli.com/@rawnullbyte?name=Profile+Views&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+</p>
