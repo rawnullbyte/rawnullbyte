@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/rawnullbyte">
-    <img src="https://img.shields.io/github/followers/rawnullbyte?label=Follow&style=social" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/github/followers/rawnullbyte?label=Followers&style=social" alt="Follow on GitHub" />
   </a>
   <a href="https://github.com/rawnullbyte">
     <img src="https://img.shields.io/github/stars/rawnullbyte?label=Stars&style=social" alt="Stars on GitHub" />
@@ -59,7 +59,7 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&show_icons=true&theme=radical&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 
 ---
 
