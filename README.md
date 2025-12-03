@@ -33,7 +33,7 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ## ⭐ Certifications
 
-<img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=2" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for rawnullbyte">
+<img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for rawnullbyte">
 
 ---
 
