@@ -104,7 +104,6 @@ Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeR
 #### 🛠️ **Development**
 - **Frameworks:** ESP-IDF + FreeRTOS
 - **Build Systems:** PlatformIO or VS Code + ESP-IDF Extension
-- **Key Commands:** `pio run` (compile), `pio run --target upload` (flash)
 
 **🔗** [View Repository](https://github.com/rootworkspace/corefw)
 
