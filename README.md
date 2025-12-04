@@ -33,6 +33,8 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ## ⭐ Certifications
 
+![World Wide CTF 2025](https://github.com/user-attachments/assets/dfd194ed-640c-4eeb-851e-5c13c0dfce3b)
+
 <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for rawnullbyte">
 
 ---
