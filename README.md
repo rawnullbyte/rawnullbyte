@@ -95,6 +95,23 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+### 🖥️ CoreFW Firmware
+Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeRTOS for task scheduling. CoreFW includes hardware initialization and provides runtime control.
+
+#### 🛠️ **Development**
+- **Frameworks:** ESP-IDF + FreeRTOS
+- **Build Systems:** PlatformIO or VS Code + ESP-IDF Extension
+- **Key Commands:** `pio run` (compile), `pio run --target upload` (flash)
+
+**🔗** [View Repository](https://github.com/rootworkspace/corefw)
+
+<br>
+
+</td>
+</tr>
 </table>
 
 ---
