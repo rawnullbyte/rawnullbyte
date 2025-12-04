@@ -116,7 +116,7 @@ A compact, versatile tool built around the ESP32-S3 microcontroller, tailored fo
   <a href="https://github.com/rawnullbyte">
     <img src="https://img.shields.io/badge/GitHub-rawnullbyte-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://dsc.gg/workspace">
+  <a href="https://discord.gg/2JfyYwgj">
     <img src="https://img.shields.io/badge/Discord-workspace-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
