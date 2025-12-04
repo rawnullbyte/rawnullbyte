@@ -17,7 +17,7 @@
 
 ## 🔧 About Me
 
-I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation. I'm part of **Root Workspace**, an independent group making hardware, software, and security tools for tech enthusiasts.
+I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation.
 
 If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
 
