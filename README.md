@@ -17,70 +17,116 @@
 
 ## 🔧 About Me
 
-I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation. I'm always open to new opportunities; feel free to reach out via my blog!
+I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation. I'm part of **Root Workspace**, an independent group making hardware, software, and security tools for tech enthusiasts.
 
 If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
 
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,bash,linux,git,discord,vscode,sqlite" alt="Tech Stack" />
+</p>
+
 ---
-
-## 💻 Languages
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,bash)
-
-## 🛠️ Tools & Tech
-
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,discord,vscode,sqlite,api)
 
 ## ⭐ Certifications
 
-![World Wide CTF 2025](https://github.com/user-attachments/assets/dfd194ed-640c-4eeb-851e-5c13c0dfce3b)
-
-<img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for rawnullbyte">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfd194ed-640c-4eeb-851e-5c13c0dfce3b" alt="World Wide CTF 2025" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
+  <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" alt="IPv6 Certification Badge for rawnullbyte" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### **KahootConnect**
-A Python wrapper for the Kahoot API. All bytes reversed—join and interact with live games over WebSockets.  
-🔗 [GitHub → rawnullbyte/KahootConnect](https://github.com/rawnullbyte/KahootConnect)
+<table>
+<tr>
+<td width="50%">
 
-### **AutoAdvertiser**
-Advertise yourself on Minecraft servers using Meteor Client!  
-🔗 [GitHub → rawnullbyte/AutoAdvertiser](https://github.com/rawnullbyte/AutoAdvertiser)
+### 🎮 KahootConnect
+A Python wrapper for the Kahoot API. All bytes reversed—join and interact with live games over WebSockets.
 
-### **MossUtils**
-Make the spawn green! [#MOSSINVASION](https://www.reddit.com/r/2b2t/comments/18jbto5/2b2t_moss_invation_make_the_spawn_green_again/)  
-🔗 [GitHub → rawnullbyte/MossUtils](https://github.com/rawnullbyte/MossUtils)
+**🔗** [View Repository](https://github.com/rawnullbyte/KahootConnect)
 
-### **RDuco**
-A Duino-coin miner written in Rust—lightweight, performant, and designed for headless operation.  
-🔗 [GitHub → rawnullbyte/RDuco](https://github.com/rawnullbyte/RDuco)
+<br>
 
-### **HackyShark**
-A compact, versatile tool built around the ESP32-S3 microcontroller, tailored for hardware hacking tasks. Its design facilitates various penetration testing activities, making it a valuable asset for security professionals and enthusiasts.  
-🔗 [GitHub → rawnullbyte/HackyShark](https://github.com/rawnullbyte/HackyShark)
+</td>
+<td width="50%">
+
+### 📢 AutoAdvertiser
+Advertise yourself on Minecraft servers using Meteor Client!
+
+**🔗** [View Repository](https://github.com/rawnullbyte/AutoAdvertiser)
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌿 MossUtils
+Make the spawn green! [#MOSSINVASION](https://www.reddit.com/r/2b2t/comments/18jbto5/2b2t_moss_invation_make_the_spawn_green_again/)
+
+**🔗** [View Repository](https://github.com/rawnullbyte/MossUtils)
+
+<br>
+
+</td>
+<td width="50%">
+
+### ⚡ RDuco
+A Duino-coin miner written in Rust—lightweight, performant, and designed for headless operation.
+
+**🔗** [View Repository](https://github.com/rawnullbyte/RDuco)
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🦈 HackyShark
+A compact, versatile tool built around the ESP32-S3 microcontroller, tailored for hardware hacking tasks. Its design facilitates various penetration testing activities, making it a valuable asset for security professionals and enthusiasts.
+
+**🔗** [View Repository](https://github.com/rawnullbyte/HackyShark)
+
+<br>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=rawnullbyte&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawnullbyte&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 💬 Let's Connect
 
-- [Blog](http://root-workspace.net/)
-- [GitHub](https://github.com/rawnullbyte)
-- [Discord](https://dsc.gg/workspace)
+<p align="center">
+  <a href="http://root-workspace.net/">
+    <img src="https://img.shields.io/badge/Blog-root--workspace.net-blue?style=for-the-badge&logo=hugo" alt="Blog" />
+  </a>
+  <a href="https://github.com/rawnullbyte">
+    <img src="https://img.shields.io/badge/GitHub-rawnullbyte-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://dsc.gg/workspace">
+    <img src="https://img.shields.io/badge/Discord-workspace-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<p align="right">
+<p align="center">
   <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
