@@ -28,11 +28,14 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 ---
 
 ## ⭐ Certifications
+<details>
+  <summary>Click to expand</summary>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dfd194ed-640c-4eeb-851e-5c13c0dfce3b" alt="World Wide CTF 2025" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
-  <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" alt="IPv6 Certification Badge for rawnullbyte" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
-</p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/dfd194ed-640c-4eeb-851e-5c13c0dfce3b" alt="World Wide CTF 2025" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" alt="IPv6 Certification Badge for rawnullbyte" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
+  </p>
+</details>
 
 ---
 
