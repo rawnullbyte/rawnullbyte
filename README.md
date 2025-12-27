@@ -141,12 +141,12 @@ Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeR
 
 <div align="center">
   
-  [![Company](https://img.shields.io/badge/company-root--workspace.net-black?style=for-the-badge&logo=jinja)](https://root-workspace.net/)
-  [![GitHub](https://img.shields.io/badge/GitHub-rawnullbyte-181717?style=for-the-badge&logo=github)](https://github.com/rawnullbyte)
-  [![Discord](https://img.shields.io/badge/Discord-workspace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/root-workspace-1430910282657697862)
+  [![Website](https://img.shields.io/badge/Website-1F1410?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://nullbyte.rip/)
+  [![Discord](https://img.shields.io/badge/Discord-161B33?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1430764750622425168)
+  [![Telegram](https://img.shields.io/badge/Telegram-0F1E24?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/rawnullbyte)
+  [![Company](https://img.shields.io/badge/Company-111827?style=for-the-badge&logo=jinja&logoColor=white)](https://root-workspace.net/)
+
 </div>
-
-
 
 <p align="center">
   <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
