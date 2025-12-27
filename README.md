@@ -141,9 +141,9 @@ Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeR
 
 <div align="center">
   
-  [![Company](https://img.shields.io/badge/company-root--workspace.net-black?style=for-the-badge&logo=jinja)](http://root-workspace.net/)
+  [![Company](https://img.shields.io/badge/company-root--workspace.net-black?style=for-the-badge&logo=jinja)](https://root-workspace.net/)
   [![GitHub](https://img.shields.io/badge/GitHub-rawnullbyte-181717?style=for-the-badge&logo=github)](https://github.com/rawnullbyte)
-  [![Discord](https://img.shields.io/badge/Discord-workspace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PtjnfCh9HX)
+  [![Discord](https://img.shields.io/badge/Discord-workspace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/servers/root-workspace-1430910282657697862)
 </div>
 
 
