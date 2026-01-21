@@ -100,18 +100,6 @@ A Duino-coin miner written in Rust—lightweight, performant, and designed for h
 <tr>
 <td colspan="2">
 
-### 🦈 HackyShark
-A compact, versatile tool built around the ESP32-S3 microcontroller, tailored for hardware hacking tasks. Its design facilitates various penetration testing activities, making it a valuable asset for security professionals and enthusiasts.
-
-**🔗** [View Repository](https://github.com/rawnullbyte/HackyShark)
-
-<br>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 ### 🖥️ CoreFW Firmware
 Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeRTOS for task scheduling. CoreFW includes hardware initialization and provides runtime control.
 
