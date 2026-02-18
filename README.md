@@ -100,14 +100,10 @@ A Duino-coin miner written in Rust—lightweight, performant, and designed for h
 <tr>
 <td colspan="2">
 
-### 🖥️ CoreFW Firmware
-Embedded firmware for the HackyShark v3 device, built on ESP-IDF 5.1+ with FreeRTOS for task scheduling. CoreFW includes hardware initialization and provides runtime control.
+### 😾 NekoVault
+A simple and secure backend made for password related applications.
 
-#### 🛠️ **Development**
-- **Frameworks:** ESP-IDF + FreeRTOS
-- **Build Systems:** PlatformIO or VS Code + ESP-IDF Extension
-
-**🔗** [View Repository](https://github.com/rootworkspace/corefw)
+**🔗** [View Repository](https://github.com/rawnullbyte/NekoVault)
 
 <br>
 
