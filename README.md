@@ -100,7 +100,7 @@ A Duino-coin miner written in Rust—lightweight, performant, and designed for h
 <tr>
 <td colspan="2">
 
-### 😾 NekoVault
+### 😺 NekoVault
 A simple and secure backend made for password related applications.
 
 **🔗** [View Repository](https://github.com/rawnullbyte/NekoVault)
