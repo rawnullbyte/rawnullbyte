@@ -13,8 +13,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation.
@@ -24,8 +22,6 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,bash,linux,git,discord,vscode,sqlite" alt="Tech Stack" />
 </p>
-
----
 
 ## Badges
 <details>
@@ -48,15 +44,11 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
   </p>
 </details>
 
----
-
-## GitHub Activity
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawnullbyte&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawnullbyte&theme=github-compact&hide_title=true&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
 
 ## Let's Connect
 
@@ -70,11 +62,9 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 </div>
 
 <p align="center">
-  <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+  <img src="https://count.getloli.com/@rawnullbyte?name=rawnullbyte&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/rawnullbyte/rawnullbyte/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
