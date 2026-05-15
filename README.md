@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 About Me
+## About Me
 
 I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation.
 
@@ -27,7 +27,7 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ---
 
-## ⭐ Badges
+## Badges
 <details>
   <summary>Click to expand</summary>
 
@@ -38,7 +38,7 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
   </p>
 </details>
 
-## 📜 Certifications
+## Certifications
 <details>
   <summary>Click to expand</summary>
 
@@ -50,70 +50,7 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 KahootConnect
-A Python wrapper for the Kahoot API. All bytes reversed—join and interact with live games over WebSockets.
-
-**🔗** [View Repository](https://github.com/rawnullbyte/KahootConnect)
-
-<br>
-
-</td>
-<td width="50%">
-
-### 📢 AutoAdvertiser
-Advertise yourself on Minecraft servers using Meteor Client!
-
-**🔗** [View Repository](https://github.com/rawnullbyte/AutoAdvertiser)
-
-<br>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌿 MossUtils
-Make the spawn green! [#MOSSINVASION](https://www.reddit.com/r/2b2t/comments/18jbto5/2b2t_moss_invation_make_the_spawn_green_again/)
-
-**🔗** [View Repository](https://github.com/rawnullbyte/MossUtils)
-
-<br>
-
-</td>
-<td width="50%">
-
-### ⚡ RDuco
-A Duino-coin miner written in Rust—lightweight, performant, and designed for headless operation.
-
-**🔗** [View Repository](https://github.com/rawnullbyte/RDuco)
-
-<br>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 😺 NekoVault
-A simple and secure backend made for password related applications.
-
-**🔗** [View Repository](https://github.com/rawnullbyte/NekoVault)
-
-<br>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawnullbyte&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -121,7 +58,7 @@ A simple and secure backend made for password related applications.
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 <div align="center">
   
