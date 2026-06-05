@@ -4,15 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rawnullbyte">
-    <img src="https://img.shields.io/github/followers/rawnullbyte?label=Followers&style=social" alt="Follow on GitHub" />
-  </a>
-  <a href="https://github.com/rawnullbyte">
-    <img src="https://img.shields.io/github/stars/rawnullbyte?label=Stars&style=social" alt="Stars on GitHub" />
-  </a>
-</p>
-
 ## About Me
 
 I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation.
