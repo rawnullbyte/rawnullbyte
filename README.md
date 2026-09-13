@@ -39,7 +39,7 @@ I'm Null, a developer specializing in creating tools and wrappers across multipl
   
   [![Website](https://img.shields.io/badge/Website-1F1410?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://nullbyte.rip/)
   [![Discord](https://img.shields.io/badge/Discord-161B33?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/267059028188725249)
-  [![Telegram](https://img.shields.io/badge/Telegram-0F1E24?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/rawnullbyte)
+  [![Telegram](https://img.shields.io/badge/Telegram-0F1E24?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/netexception)
   [![Company](https://img.shields.io/badge/Company-111827?style=for-the-badge&logo=jinja&logoColor=white)](https://root-workspace.net/)
 
 </div>
