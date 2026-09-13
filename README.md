@@ -8,8 +8,6 @@
 
 I'm Null, a developer specializing in creating tools and wrappers across multiple languages including Python and Javascript. My work primarily focuses on API integrations and automation.
 
-If you appreciate my work, consider [sponsoring me on GitHub!](https://github.com/sponsors/rawnullbyte) 🙏
-
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,bash,linux,git,discord,vscode,sqlite" alt="Tech Stack" />
 </p>
@@ -34,12 +32,6 @@ If you appreciate my work, consider [sponsoring me on GitHub!](https://github.co
     <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rawnullbyte&badge=3" alt="IPv6 Certification Badge for rawnullbyte" height="360" style="margin: 20px 40px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;" />
   </p>
 </details>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawnullbyte&theme=github-compact&hide_title=true&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ## Let's Connect
 
